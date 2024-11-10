@@ -1,6 +1,6 @@
 # Node Hotel Management System
 
-The **Node Hotel** application is a hotel management system built with **Node.js** and **Express.js**. It manages hotel staff and menu items, allowing CRUD (Create, Read, Update, Delete) operations for each. This application uses **MongoDB** as the database to store staff (persons) and menu item data.
+The **Hotel Management** application is a hotel management system built with **Node.js** and **Express.js**. It manages hotel staff and menu items, allowing CRUD (Create, Read, Update, Delete) operations for each. This application uses **MongoDB** as the database to store staff (persons) and menu item data.
 
 ## Table of Contents
 
